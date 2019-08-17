@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lokielse/omnipay-alipay": "^3.0"
+    }
+}
